@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Reverse {
 public static void main(String[] args) {
 	Scanner in=new Scanner(System.in);
-System.out.println("Enetr");
+System.out.println("Enter");
 	int	a=in.nextInt();
 	int temp=0;
 	int pal=a;
